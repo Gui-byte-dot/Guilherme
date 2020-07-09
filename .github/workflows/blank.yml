@@ -1,0 +1,4 @@
+var resultado := 5+3
+escreva "O resultado é {resultado}" 
+
+  
